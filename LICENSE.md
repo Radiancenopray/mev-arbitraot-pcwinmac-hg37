@@ -1,4 +1,4 @@
-# 
+# Personnalisé MEV arbitrage bot modèles pour Mac OS | Léger MEV arbitrage bot modèles pour PC Windows. Avec signature des transactions et attaques time-bandit — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
